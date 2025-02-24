@@ -4,6 +4,7 @@ import './App.css';
 
 function App() {
   const openMenu = () => {
+    console.log("Button clicked");
     document.querySelector(".sidebar")?.classList.add("open");
   }
   const closeMenu = () => {
@@ -11,11 +12,8 @@ function App() {
   }
   return (
     <div className="grid-container">
-<head>
     <title>Buckeyes</title>
     <link rel="stylesheet" href="style.css"></link>
-</head>
-<body>
     <div className="grid-container">
         <header className="header">
             <div className="brand">
@@ -111,7 +109,6 @@ function App() {
             &copy; 2025 Buckeyes
         </footer>
     </div>
-</body>
 </div>
   );
 }
