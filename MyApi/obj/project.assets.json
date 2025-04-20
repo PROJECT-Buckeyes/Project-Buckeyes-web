@@ -383,19 +383,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amiya\\.nuget\\packages\\": {}
+    "C:\\Users\\nmcgraw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amiya\\Lab 6\\MyApi\\MyApi.csproj",
+      "projectUniqueName": "C:\\Users\\nmcgraw\\Documents\\Lab6\\Project-Buckeyes-web\\MyApi\\MyApi.csproj",
       "projectName": "MyApi",
-      "projectPath": "C:\\Users\\amiya\\Lab 6\\MyApi\\MyApi.csproj",
-      "packagesPath": "C:\\Users\\amiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amiya\\Lab 6\\MyApi\\obj\\",
+      "projectPath": "C:\\Users\\nmcgraw\\Documents\\Lab6\\Project-Buckeyes-web\\MyApi\\MyApi.csproj",
+      "packagesPath": "C:\\Users\\nmcgraw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nmcgraw\\Documents\\Lab6\\Project-Buckeyes-web\\MyApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\amiya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nmcgraw\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -419,7 +419,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -453,7 +453,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
