@@ -31,10 +31,11 @@ function Orders() {
                             <td>{order.isPaid.toString()}</td>
                             <td>{order.isDelivered.toString()}</td>
                             <td>
-                                <Link to={"/order/" + order._id} classname="button secondary">Details</Link>
+                                <Link to={"/order/" + order._id} className="button secondary">Details</Link>
                             </td>
                         </tr>
                     ))}
+                </tbody>
           </table>
         </div>
     </div>
